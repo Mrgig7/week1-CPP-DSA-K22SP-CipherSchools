@@ -1,2 +1,2 @@
-# week1-DSA-K22SP-CipherSchools
-DSA codes for week 1 lecture
+# week1-CPP-DSA-K22SP-CipherSchools
+CPP & DSA codes for week 1 lecture
